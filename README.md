@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaa-404
+- 👋 Hi, I’m Alaa!
 - 👀 I’m interested in S E C U R I T Y
 - 🌱 I’m currently learning E V E R Y T H I N G
 - 💞️ I’m looking to collaborate on bug bounties! scripts! anything!
